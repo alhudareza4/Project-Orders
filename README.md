@@ -7,9 +7,9 @@ Project kali ini saya menganalisis database Northwind dengan fokus pada tabel Or
 
 Pengolahan data tersebut menggunakan :
 
-SQL
-Data Manipulation
-Data Visualization
-Statistics
+* SQL
+* Data Manipulation
+* Data Visualization
+* Statistics
 
 Analisis ini saya buat sebagai Rekomendasi untuk perusahaan dalam mengambil keputusan memilih perusahaan pengiriman yang paling menguntungkan
